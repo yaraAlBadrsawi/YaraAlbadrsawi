@@ -41,13 +41,12 @@
   <img align="left" alt="Facebook" width="50px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" />
 </a>
 
-
 <a href="https://twitter.com/YAlbadrsawy">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
+  <img align="left" alt="Twitter" width="50px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 
-
-
+<br/>
+<br/>
 
 ## Fun Facts
 
