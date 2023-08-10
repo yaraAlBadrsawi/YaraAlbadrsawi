@@ -19,6 +19,40 @@
 - 📚 Learning is my superpower – I'm always reading and experimenting.
 
 
+## Technical Skills
+
+Here are some of the technologies and tools I'm familiar with:
+
+### Languages 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
+
+### Frameworks
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
+
+
+### Databases
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![Hive](https://img.shields.io/badge/-Hive-585858?style=flat&logo=Hive&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+### Frontend Languages and Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+
+### others
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=black)
+
+
 
 ## GitHub status 
 
