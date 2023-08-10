@@ -24,11 +24,13 @@
 Here are some of the technologies and tools I'm familiar with:
 
 ### Languages 
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white)
+
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
@@ -51,6 +53,8 @@ Here are some of the technologies and tools I'm familiar with:
 ### others
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
+
 
 
 
@@ -89,14 +93,7 @@ Here are some of the technologies and tools I'm familiar with:
 - 🌿 Coding surrounded by nature is my happy place. I find inspiration and focus in the great outdoors.
 - 🌊 The sea has a special place in my heart, and I often find serenity by the water.
 
-## Languages and Tools
 
-Here are some of the technologies I'm familiar with:
-
-- Flutter | Dart
-- Java | Kotlin
-- php | lavrael
-- Git | GitHub
 
 ---
 
